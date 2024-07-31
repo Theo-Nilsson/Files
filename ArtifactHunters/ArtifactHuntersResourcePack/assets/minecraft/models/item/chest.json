@@ -36,7 +36,7 @@
         }
     },
     "overrides": [
-        { "predicate": { "custom_model_data": 37451 }, "model": "item/void_shard" }
+        { "predicate": { "custom_model_data": 37451 }, "model": "item/void_shard" },
         { "predicate": { "custom_model_data": 37452 }, "model": "item/void_flesh" }
     ]
 }
